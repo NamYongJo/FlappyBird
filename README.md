@@ -1,5 +1,6 @@
 # 조코딩 Flappy Bird Clone 학습
 학습 강의 링크 : https://www.youtube.com/watch?v=jbBANDFK2M0
+# 학습 내용
 1. 이미지 에셋 분할
 2. 배경 이미지 오브젝트 추가
 3. 캐릭터 오브젝트 추가
