@@ -1,5 +1,3 @@
-# 조코딩 Flappy Bird Clone 학습
-학습 강의 링크 : https://www.youtube.com/watch?v=jbBANDFK2M0
 # 코드 위치
 Master branche : https://github.com/NamYongJo/FlappyClone/tree/master
 # 학습 내용
